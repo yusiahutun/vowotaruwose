@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vowotaruwose.pages.dev/sitemap.xml
